@@ -19,7 +19,6 @@ using System.Windows.Forms;
 using System.Xml;
 using System.Net;
 using Jarvis.Utils;
-using iTunesLib;
 using System.Speech.AudioFormat;
 using System.Speech.Synthesis;
 using System.Diagnostics; 
@@ -35,7 +34,6 @@ namespace Jarvis.Utils
         Random random = new Random();
         Logger Log = new Logger();
         Weather w = new Weather();
-        iTunesApp itunes = new iTunesApp();
         SpeechSynthesizer tts = new SpeechSynthesizer();
         string[] greetingAutoResponses = { "Yes Sir?", "How can i Help you?", "What's up sir?", "hows it going?" };
         string[] thankYouResponses = { "No problem sir", "It is my pleasure sir" };
@@ -91,25 +89,7 @@ namespace Jarvis.Utils
 
           }
        
-          else if (c.Contains("play"))
-          {
-              itunes.Play();
-          }
-          else if (c.Contains("pause") | c.Contains("klaas") | c.Contains("cause"))
-          {
-              itunes.Pause();
-          }
-          else if (c.Contains("skip"))
-          {
-              itunes.NextTrack();
-          }
-
-          else if (c.Contains("name of this song") | c.Contains("name of the song") | c.Contains("song name"))
-          {
-              String fullSong = itunes.CurrentTrack.Name + " by " + itunes.CurrentTrack.Artist;
-              speak(fullSong, "name of song");
-          }
-           
+         
         
           else if (c.Contains("weather"))
           {

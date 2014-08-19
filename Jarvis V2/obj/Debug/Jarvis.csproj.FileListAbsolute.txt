@@ -23,9 +23,6 @@ C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\
 C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\RestSharp.dll
 C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\TweetSharp.dll
 C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe.config
-C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
-C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
-C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.csproj.ResolveComReference.cache
 C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.exe
 C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.pdb
 C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe
