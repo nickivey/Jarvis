@@ -1,0 +1,101 @@
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.exe.config
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\MainWindow.baml
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\MainWindow.g.cs
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\App.g.cs
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2_MarkupCompile.cache
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.g.resources
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis_V2.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.exe
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.pdb
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.exe
+c:\users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.pdb
+C:\Users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Interop.ActiveHomeScriptLib.dll
+C:\Users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csproj.ResolveComReference.cache
+C:\Users\nick\documents\visual studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\CsharpTwitt (1).dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\TweetSharp.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Twitterizer2.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\TweetSharp.pdb
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\SharpVoice.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Common.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Imap4.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Mail.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Dns.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Smtp.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Common.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Imap4.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Mail.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Dns.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Smtp.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\RestSharp.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Twilio.Api.dll
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\RestSharp.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Twilio.Api.pdb
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\bin\Debug\Twilio.Api.xml
+C:\Users\nick\Documents\Visual Studio 2012\Projects\Jarvis V2\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.CV.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.Util.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Jarvis V2.exe.config
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Common.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Imap4.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Mail.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\RestSharp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\TweetSharp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Dns.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Smtp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Common.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Imap4.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Mail.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\RestSharp.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\TweetSharp.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Dns.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ActiveUp.Net.Smtp.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csproj.ResolveComReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\MainWindow.baml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\MainWindow.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\App.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2_Content.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2_MarkupCompile.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.g.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis_V2.Properties.Resources.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.csproj.GenerateResource.Cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Debug\Jarvis V2.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\CsharpTwitt (1).dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Twitterizer2.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\opencv_core290.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\opencv_highgui290.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\opencv_imgproc290.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\ZedGraph.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.CV.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Emgu.Util.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\WolframAlpha.NET.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\WolframAlpha.NET.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Parse.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Parse.NetFx45.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Parse.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Debug\Parse.NetFx45.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Jarvis V2.exe.config
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis V2.csproj.ResolveComReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis V2.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis V2.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe.config

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TweetSharp</id>
+    <version>2.3.1</version>
+    <authors>Daniel Crenna and Jason Diller</authors>
+    <owners>Daniel Crenna and Jason Diller</owners>
+    <licenseUrl>https://github.com/danielcrenna/tweetsharp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/danielcrenna/tweetsharp</projectUrl>
+    <iconUrl>http://apitize.com.s3.amazonaws.com/logo_tweetsharp.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TweetSharp v2 is a fast, clean wrapper around the Twitter API. It uses T4 templates to make adding new endpoints easy.</description>
+    <summary>TweetSharp v2 is a fast, clean wrapper around the Twitter API. It uses T4 templates to make adding new endpoints easy.</summary>
+    <releaseNotes>New in 2.3.1
+        ----------
+        - Some issue resolution from GitHub
+        - Final release of TweetSharp</releaseNotes>
+    <language>en-US</language>
+    <tags>twitter tweetsharp web api http rest wrapper json wp7 mango</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="5.0.6" />
+    </dependencies>
+  </metadata>
+</package>

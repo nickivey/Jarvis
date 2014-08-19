@@ -1,0 +1,27 @@
+﻿<Window x:Name="Jarvis" x:Class="Jarvis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="Jarvis" Height="597" Width="910" Foreground="#FF635F5F">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://siteoforigin:,,,/Images/background.gif" Stretch="None"/>
+        </Grid.Background>
+
+        <TextBox x:Name="response" FontSize="18" Margin="513,428,129,0"  Background="{x:Null}" Foreground="White" BorderBrush="#FF1F588F" BorderThickness="2" />
+        <ListBox ScrollViewer.CanContentScroll="False" x:Name="log"  HorizontalAlignment="Left" Height="164" Margin="163,392,0,0" VerticalAlignment="Top" Width="332" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" TabIndex="2147483641" />
+    
+        <Image x:Name="WeatherImg" HorizontalAlignment="Left" Height="48" Margin="819,94,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="0.481,0.062"/>
+        <Label Content="Weather" HorizontalAlignment="Left" Margin="751,63,0,0" VerticalAlignment="Top" Width="96" FontSize="16" Grid.IsSharedSizeScope="True" FontWeight="ExtraBold" Foreground="#FFFDF7F7" ForceCursor="True"/>
+        <Label x:Name="High" Content="High:" HorizontalAlignment="Left" Margin="707,94,0,0" VerticalAlignment="Top" Width="153" Foreground="#FFF9F9F9"/>
+        <Label x:Name="Low" Content="Low:" HorizontalAlignment="Left" Margin="707,120,0,0" VerticalAlignment="Top" Width="153" Foreground="#FFFBF9F9"/>
+        <Label x:Name="Current" Content="Current Condition:" HorizontalAlignment="Left" Margin="707,151,0,0" VerticalAlignment="Top" Width="166" Foreground="#FFF5F1F1"/>
+        <Label x:Name="Time" Content="12:22 PM" HorizontalAlignment="Left" Margin="679,22,0,0" VerticalAlignment="Top" Height="41" Width="168" Foreground="#FF1F588F" BorderThickness="0,3,0,0" FontSize="18" FontWeight="SemiBold" HorizontalContentAlignment="Center" FontFamily="OCR A Std"/>
+        <TextBox x:Name="Input" HorizontalAlignment="Left" Height="23" Margin="173,348,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="231" Cursor="None" Background="#FF21578E" BorderBrush="{x:Null}" Foreground="White" />
+        <Button x:Name="inputButton" Content="Send" HorizontalAlignment="Left" Margin="409,348,0,0" VerticalAlignment="Top" Width="75" Background="#FF1A4D7C" Foreground="White" BorderBrush="#FF21578E" Height="23" Click="inputButton_Click"/>
+        <Image x:Name="imageBox" HorizontalAlignment="Left" Height="115" Margin="531,441,0,0" VerticalAlignment="Top" Width="221"/>
+        <Label x:Name="lastTweet" Content="The last tweet I got was" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Width="235" Foreground="White"/>
+
+    </Grid>
+</Window>
+

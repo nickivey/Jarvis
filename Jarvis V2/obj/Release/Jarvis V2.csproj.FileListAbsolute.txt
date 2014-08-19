@@ -1,0 +1,40 @@
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Jarvis V2.exe.config
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Interop.SpeechLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.csproj.ResolveComReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\MainWindow.baml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\MainWindow.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\App.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2_MarkupCompile.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.g.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis_V2.Properties.Resources.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.csproj.GenerateResource.Cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Jarvis V2.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Jarvis V2.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Imap4.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Mail.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\CsharpTwitt (1).dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Hammock.ClientProfile.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\RestSharp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\SharpVoice.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\TweetSharp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Twilio.Api.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Twitterizer2.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Dns.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Smtp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Common.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Imap4.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Mail.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Hammock.ClientProfile.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\RestSharp.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\TweetSharp.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Twilio.Api.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\Twilio.Api.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Dns.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\bin\Release\ActiveUp.Net.Smtp.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis V2\Jarvis V2\obj\Release\Jarvis V2.pdb

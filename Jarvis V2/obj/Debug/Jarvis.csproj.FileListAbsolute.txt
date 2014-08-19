@@ -1,0 +1,46 @@
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.csproj.ResolveComReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\MainWindow.baml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\MainWindow.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\App.g.cs
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis_MarkupCompile.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.g.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.csproj.GenerateResource.Cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe.config
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Jarvis.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\SharpVoice.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\RestSharp.xml
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\TweetSharp.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.exe
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\obj\Debug\Jarvis.pdb
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\RestSharp.dll
+C:\Users\Nicks\Documents\Visual Studio 2013\Projects\Jarvis\Jarvis V2\bin\Debug\TweetSharp.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe.config
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.csproj.ResolveComReference.cache
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.exe
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.pdb
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Jarvis.exe
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Jarvis.pdb
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\SharpVoice.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\TweetSharp.dll
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\bin\Debug\TweetSharp.pdb
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\MainWindow.baml
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\MainWindow.g.cs
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\App.g.cs
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis_MarkupCompile.cache
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.g.resources
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Nicks\Documents\GitHub\Jarvis\Jarvis V2\obj\Debug\Jarvis.csproj.GenerateResource.Cache
