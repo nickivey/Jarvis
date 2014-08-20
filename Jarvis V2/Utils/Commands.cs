@@ -69,7 +69,13 @@ namespace Jarvis.Utils
       public void ProcessCommand2(object c1) {
           string c = c1.ToString();
 
-        
+
+          if (c.Contains("hello"))
+          {
+              justSpeak("Yes sir?");
+          }
+
+
           t.Abort();
       }
 
