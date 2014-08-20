@@ -68,79 +68,8 @@ namespace Jarvis.Utils
 
       public void ProcessCommand2(object c1) {
           string c = c1.ToString();
-          if (c.Contains("hello"))
-          {
-              justSpeak(greetingAutoResponses[random.Next(greetingAutoResponses.Length)]);
-          }
-         
-          else if (c.StartsWith("google"))
-          {
-              String google = c.Replace("google", "");
-              google = google.Replace(" ", "+");
-              System.Diagnostics.Process.Start("http://google.com/search?q=" + google);
-          }
 
-          else if (c.StartsWith("text"))
-          { //TEXT test
-              String text = c;
-              text = text.Replace("text", " ");
-              Logger.SendSMS("", text);
-
-
-          }
-       
-         
         
-          else if (c.Contains("weather"))
-          {
-              w.getWeather();
-              speak("The current temperature is " + w.Temperature + " degrees. The weather condition today will be " + w.TFCloud + " With a high of " + w.TFHigh + " and a low of " + w.TFLow + " and humidity at " + w.Humidity + ".", c);
-
-          }
-
-          else if (c.Contains("I'm up") || (c.Contains("i'm up")) || (c.Contains("im up")) || (c.Contains("awake")))
-          {
-              w.getWeather();
-              speak("Good morning,it is " + DateTime.Now.ToShortTimeString() + ". today is " + DateTime.Now.ToLongDateString() + ". The current temperature is " + w.Temperature + " degrees. The weather condition today will be " + w.TFCloud + " With a high of " + w.TFHigh + " and a low of " + w.TFLow + " and humidity at " + w.Humidity + ".", c);
-          }
-          else if (c.Contains("date"))
-          {
-              speak(DateTime.Today.ToString("dd-MM-yyyy"), c);
-          }
-
-         /* else if (c.Contains("volume up") | c.Contains("volume of"))
-          {
-              ExecuteCommand("C:/nircmd.exe changesysvolume 10000"); //TODO add normal volume based on when im listening to music and when im not INTELLIGENCE class
-          }
-          else if (c.Contains("volume normal") | c.Contains("vol normal"))
-          {
-              ExecuteCommand("C:/nircmd.exe setsysvolume 30000"); //TODO add normal volume based on when im listening to music and when im not INTELLIGENCE class
-          }
-          else if (c.Contains("volume down"))
-          {
-              ExecuteCommand("C:/nircmd.exe changesysvolume -10000"); //TODO add normal volume based on when im listening to music and when im not INTELLIGENCE class
-          }
-          */
-          else if (c.Contains("right"))
-          {
-              justSpeak("yes sir");
-          }
-          else if (c.Contains("thank you"))
-          {
-              justSpeak(thankYouResponses[random.Next(thankYouResponses.Length)]);
-          }
-         
-          else if (c.Contains("leaving") | c.Contains("be back"))
-          {
-            
-              JarvisData.isOff = "true";
-              JarvisData.save();
-          }
-        
-          else if (c.EndsWith("jarvis"))
-          {    
-                  justSpeak(greetingAutoResponses[random.Next(greetingAutoResponses.Length)]);
-          }
           t.Abort();
       }
 
