@@ -10,35 +10,36 @@ namespace Jarvis.Utils
     class JarvisData
     {
 
-       public static String isOff;
-       public static String lastTweet;
+        public static String isOff = "false";
+        public static String lastTweet;
         public static void save()
         {
-            XmlTextWriter writer = new XmlTextWriter("Data/data.xml", Encoding.UTF8);
+            /* XmlTextWriter writer = new XmlTextWriter("Data/data.xml", Encoding.UTF8);
 
-            writer.Formatting = Formatting.Indented;
+             writer.Formatting = Formatting.Indented;
            
-            writer.WriteStartElement("Jarvis");
+             writer.WriteStartElement("Jarvis");
 
-            writer.WriteStartElement("isOff");
-            writer.WriteString(isOff);
-            writer.WriteEndElement();
+             writer.WriteStartElement("isOff");
+             writer.WriteString(isOff);
+             writer.WriteEndElement();
 
-            writer.WriteStartElement("lastTweet");
-            writer.WriteString(lastTweet);
-            writer.WriteEndElement();
+             writer.WriteStartElement("lastTweet");
+             writer.WriteString(lastTweet);
+             writer.WriteEndElement();
 
-            writer.WriteEndElement();
-            writer.Close();
-
+             writer.WriteEndElement();
+             writer.Close();
+             */
         }
 
         public static void load()
         {
-                XmlDocument reader = new XmlDocument();
-                reader.Load("Data/data.xml");
-                isOff = reader.SelectSingleNode("Jarvis/isOff").InnerText;
-                lastTweet = reader.SelectSingleNode("Jarvis/lastTweet").InnerText;
-        }  
+            /*XmlDocument reader = new XmlDocument();
+            reader.Load("Data/data.xml");
+            isOff = reader.SelectSingleNode("Jarvis/isOff").InnerText;
+            lastTweet = reader.SelectSingleNode("Jarvis/lastTweet").InnerText;
+             */
+        }
     }
 }
