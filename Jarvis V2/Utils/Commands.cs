@@ -32,7 +32,6 @@ namespace Jarvis.Utils
     {
         Thread t;
         Random random = new Random();
-        Logger Log = new Logger();
         Weather w = new Weather();
         SpeechSynthesizer tts = new SpeechSynthesizer();
         string[] greetingAutoResponses = { "Yes Sir?", "How can i Help you?", "What's up sir?", "hows it going?" };
