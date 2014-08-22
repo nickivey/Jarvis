@@ -84,13 +84,6 @@ namespace Jarvis.Utils
       {
           tts.Speak(text);  
       }
-      public void speak(String response, String c)
-      {
-          //LOGGER
-          Log.log(c);
-           tts.Speak(response);       
-          }
-      
 
     
 

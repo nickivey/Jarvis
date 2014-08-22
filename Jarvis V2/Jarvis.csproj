@@ -88,7 +88,6 @@
     </ApplicationDefinition>
     <Compile Include="Settings.cs" />
     <Compile Include="Utils\JarvisData.cs" />
-    <Compile Include="Utils\Logger.cs" />
     <Compile Include="Utils\Twitter.cs" />
     <Compile Include="Utils\Weather.cs" />
     <Page Include="MainWindow.xaml">
