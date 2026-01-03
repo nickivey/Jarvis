@@ -40,3 +40,13 @@ Minimal overhead with a focus on responsiveness.
 
 🛠️ Developer-Friendly
 Clean, readable code structure suitable for learning and experimentation.
+
+🚀 Future Improvements (Optional Section)
+
+Voice recognition and speech output
+
+Smarter natural language processing
+
+Integration with system tools and APIs
+
+Custom user-defined commands
