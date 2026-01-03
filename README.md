@@ -41,6 +41,8 @@ Minimal overhead with a focus on responsiveness.
 🛠️ Developer-Friendly
 Clean, readable code structure suitable for learning and experimentation.
 
+
+
 🚀 Future Improvements (Optional Section)
 
 Voice recognition and speech output
@@ -50,3 +52,14 @@ Smarter natural language processing
 Integration with system tools and APIs
 
 Custom user-defined commands
+
+
+
+✨ Features
+| Feature             | Description                                   |
+| ------------------- | --------------------------------------------- |
+| Command Recognition | Processes predefined user commands            |
+| Modular Design      | New features and commands can be added easily |
+| Desktop Assistant   | Runs locally without external dependencies    |
+| Fast Execution      | Minimal resource usage and quick responses    |
+| Extensible Codebase | Designed for learning and future expansion    |
